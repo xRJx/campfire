@@ -37,4 +37,4 @@ function PLUGIN:SaveCampfires()
 	Clockwork.kernel:SaveSchemaData("plugins/campfires/"..game.GetMap(), campFires);
 end;
 
---06/18/2016 8:32 PM
+--06/18/2016 8:42 PM
